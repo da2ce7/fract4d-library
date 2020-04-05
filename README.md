@@ -17,4 +17,5 @@ Fractal are mathematical formulas that produces visual output using appropriate 
 The intent of this repository is to provide an easy way for authors to collaborate and share assets, (formulas, maps, etc.) related to fractal generation.
 
 *Licence*  
-All formulas in the database are MIT-licensed.
+All formulas in the database are MIT-licensed *except* those in the orgform directory.  
+See [/fractals/README.md](fractals/README.md#orgform) for more detail.
