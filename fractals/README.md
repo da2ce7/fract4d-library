@@ -33,10 +33,12 @@ Draws the Mandelbrot set.
 
 ![][mandelbrot_example]
 
-*This folder contains one sub-folder:*  
+*This folder contains two sub-folders:*  
 
-#### Orgform  
+#### Gnofract 4D
+The [/fractals/gnofract4d/](./gnofract4d) directory contains the formulas included with the Gnofract 4D program.
 
+#### Orgform
 The [/fractals/orgform/](./orgform/) directory contains a mirror of a large number of fractal formulas originally written for FRACTINT, by a large number of different authors.  
 * These were collected first by George Martin and later by Paul N. Lee. and distributed via a file called ORGFORM.ZIP from Paul's website www.nahee.com.  
 
